@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pon-selvakumar/its_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pon-selvakumar/its_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pon-selvakumar/its_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pon-selvakumar/its_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pon-selvakumar/its_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pon-selvakumar/its_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pon-selvakumar/its_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3463-alternating-groups-i](https://github.com/pon-selvakumar/its_leetcode/tree/master/3463-alternating-groups-i) |
 ## Binary Search
@@ -36,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pon-selvakumar/its_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pon-selvakumar/its_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/pon-selvakumar/its_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
