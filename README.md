@@ -27,5 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pon-selvakumar/its_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3463-alternating-groups-i](https://github.com/pon-selvakumar/its_leetcode/tree/master/3463-alternating-groups-i) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pon-selvakumar/its_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pon-selvakumar/its_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
