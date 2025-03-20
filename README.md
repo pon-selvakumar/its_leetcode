@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pon-selvakumar/its_leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/pon-selvakumar/its_leetcode/tree/master/0054-spiral-matrix) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pon-selvakumar/its_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pon-selvakumar/its_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3463-alternating-groups-i](https://github.com/pon-selvakumar/its_leetcode/tree/master/3463-alternating-groups-i) |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pon-selvakumar/its_leetcode/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pon-selvakumar/its_leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/pon-selvakumar/its_leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
