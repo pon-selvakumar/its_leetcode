@@ -37,11 +37,11 @@ public:
         {
             vector<int> N;
             for(int j=0;j<n;j++){
-                cout<<arr[i][j]<<" ";
+                // cout<<arr[i][j]<<" ";
                 N.push_back(arr[i][j]);
             }
             x.push_back(N);
-            cout<<"\n";
+            // cout<<"\n";
         }
         return x;
     }
