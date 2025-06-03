@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pon-selvakumar/its_leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pon-selvakumar/its_leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pon-selvakumar/its_leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/pon-selvakumar/its_leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/pon-selvakumar/its_leetcode/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/pon-selvakumar/its_leetcode/tree/master/0229-majority-element-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pon-selvakumar/its_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pon-selvakumar/its_leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pon-selvakumar/its_leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/pon-selvakumar/its_leetcode/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pon-selvakumar/its_leetcode/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/pon-selvakumar/its_leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
