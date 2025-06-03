@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pon-selvakumar/its_leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pon-selvakumar/its_leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pon-selvakumar/its_leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/pon-selvakumar/its_leetcode/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/pon-selvakumar/its_leetcode/tree/master/0229-majority-element-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pon-selvakumar/its_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pon-selvakumar/its_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pon-selvakumar/its_leetcode/tree/master/0078-subsets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pon-selvakumar/its_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pon-selvakumar/its_leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pon-selvakumar/its_leetcode/tree/master/0059-spiral-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pon-selvakumar/its_leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
