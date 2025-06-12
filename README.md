@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pon-selvakumar/its_leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/pon-selvakumar/its_leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pon-selvakumar/its_leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pon-selvakumar/its_leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -81,9 +82,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pon-selvakumar/its_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/pon-selvakumar/its_leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/pon-selvakumar/its_leetcode/tree/master/0064-minimum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pon-selvakumar/its_leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/pon-selvakumar/its_leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pon-selvakumar/its_leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pon-selvakumar/its_leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
