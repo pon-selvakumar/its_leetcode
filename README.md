@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/pon-selvakumar/its_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/pon-selvakumar/its_leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/pon-selvakumar/its_leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pon-selvakumar/its_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/pon-selvakumar/its_leetcode/tree/master/0229-majority-element-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pon-selvakumar/its_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pon-selvakumar/its_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pon-selvakumar/its_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/pon-selvakumar/its_leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/pon-selvakumar/its_leetcode/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pon-selvakumar/its_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
